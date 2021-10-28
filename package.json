@@ -1,0 +1,18 @@
+{
+  "name": "generator-react-gulp-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Scafolding for a front-end workflow that uses React (with typescript), Gulp and Sass",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZithaChitra/generator-react-gulp-sass-boilerplate"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "ZithaChitra",
+  "license": "ISC",
+  "dependencies": {
+    "yoeman-generator": "0.0.1-security"
+  }
+}
